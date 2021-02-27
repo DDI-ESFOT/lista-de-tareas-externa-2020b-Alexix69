@@ -1,0 +1,7 @@
+.completedTask{
+    background-color: green;
+}
+
+.markAsCompleted{
+    background-color: orange;
+}
